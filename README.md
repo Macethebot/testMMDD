@@ -20,4 +20,4 @@ Afterwards, dive into the workshop.
 
 Check out the [[Resources]] for some helpful terms and definitions, some sample files to practice with, and some sources for taking a deeper dive into workshop topics.
 
-For specifics around the creation of this workshop and how to give feedback, check out the [[About]] page.
+For specifics around the creation of this workshop and how to give feedback, check out the [About](About.md) page.
