@@ -1,17 +1,19 @@
+## Under Construction
 
+**Guiding ethos**
 
+The process doesn’t need to save everything, but document general approach and value system + having a concrete goals makes it easier to iterate on the process
 
-compare to spring cleaning  
-emphasis reasonable goals  
-evaluating needs at the point of download and save  
--  
-Significant projects - end of semester/cumulative work  
-a. routine clean up and assessment (just like cleaning your room, seasonal cleaning) b. documenting process and changes c. planning around present and future needs  
-  
-coming back to evaluate your system - iterative process
+Iteration is necessary, and it’s good to try multiple approaches
 
+**Things this section will cover:**
 
-Sustainable Habits for Lifelong Learning  
-- Setting a weekly or monthly “digital clean-up” routine  
-- Using tools like calendars or reminders for file management  
-- Create your own “Digital Maintenance Checklist” - model examples 
+- How to create reasonable goals for implementing and iterating on system
+- Models of calibrating for: daily, weekly, biweekly, monthly, seasonally, yearly management
+- Ways to incorporate tools like calendars or reminders for file management
+- Planning around present and future needs
+- Methods for implementing classroom accountability (student to student, student to instructor, instructor to student)
+- “Digital Maintenance Checklist” – model examples, offer templates
+- Mental Models for dealing with temporary chaos + how to return to your system
+- Point to more resources for tips for backups, folders, naming systems
+- How to documenting process and changes to understand what does and doesn’t work to help calibrate system
